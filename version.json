@@ -1,9 +1,9 @@
 {
   "channel": "release",
-  "versionCode": 17,
-  "versionName": "1.0.16",
-  "timestamp": 1795259848900,
-  "sha256": "6e93d575638d2b6409c2977243a4acf8522dc9789aeb1e6039fa5b3ceaccd039",
-  "fileSize": 206816,
+  "versionCode": 21,
+  "versionName": "1.0.20",
+  "timestamp": 1795263079798,
+  "sha256": "92e70db4e486d9b7e12231532cf3437b4c124dcfd8eda54ca1d7f4648b5f1456",
+  "fileSize": 207552,
   "url": "https://raw.githubusercontent.com/mohannad-aldulaimi/hope_hope_em_day_ota/refs/heads/main/app.bin"
 }
