@@ -1,12 +1,9 @@
 {
   "channel": "release",
-  "versionCode": 10,
-  "versionName": "1.0.9",
-  "timestamp": 1795255119063,
-  "sha256": "4afd6e5ab14101ae86beb4cde520725d579173fa6466318e7227e5b8d47bad74",
+  "versionCode": 12,
+  "versionName": "1.0.11",
+  "timestamp": 1795255565775,
+  "sha256": "1167eb4f739f99195ef240e8e444fb51dc9ac16243df0ce00bbb0320c3c072f4",
   "fileSize": 206752,
-  "url": "https://raw.githubusercontent.com/mohannad-aldulaimi/hope_hope_em_day_ota/refs/heads/main/app.bin",
-  "latestApkVersionCode": 1,
-  "apkVersionName": "1.0",
-  "apkDownloadUrl": "https://raw.githubusercontent.com/mohannad-aldulaimi/hope_hope_em_day_ota/refs/heads/main/app-release.apk"
+  "url": "https://raw.githubusercontent.com/mohannad-aldulaimi/hope_hope_em_day_ota/refs/heads/main/app.bin"
 }
